@@ -1,6 +1,10 @@
 # Dependencias
 node_modules/
 
+# Archivos de diseño temporales y exportaciones
+*.zip
+stitch_extracted/
+
 # Variables de entorno
 .env
 .env.local
