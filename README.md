@@ -5,7 +5,7 @@ Sitio web y landing page oficial para la promoción y venta de productos de **Mi
 ## 🌿 Características
 - Presentación de la marca e historia de Doña Carolina.
 - Catálogo interactivo de productos (Miel Multifloral, Miel de Eucalipto, Miel Cremada, etc.).
-- Formulario de contacto y pedidos directos vía WhatsApp / Email.
+- Formulario de contacto y pedidos directos vía WhatsApp.
 - Diseño totalmente adaptable a dispositivos móviles (Responsive Web Design).
 
 ## 🛠️ Stack Tecnológico
