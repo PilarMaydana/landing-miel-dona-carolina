@@ -1,6 +1,6 @@
 # 🍯 Miel Doña Carolina - Landing Page
 
-Sitio web y landing page oficial para la promoción y venta de productos de **Miel Doña Carolina** (miel 100% natural, pura y artesanal).
+Sitio web y landing page oficial para la promoción y venta de productos de **Miel Doña Carolina** 
 
 ## 🌿 Características
 - Presentación de la marca Doña Carolina.
